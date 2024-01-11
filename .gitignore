@@ -1,0 +1,7 @@
+# IDE configuration
+.idea
+*.iml
+
+# Java bytecode
+*.class
+
